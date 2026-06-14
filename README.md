@@ -1,6 +1,6 @@
 # Análisis comparativo de modelos preentrenados de Hugging Face — Sentimiento en español
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/analisis-sentimiento-es-huggingface/blob/main/notebooks/analisis_comparativo_sentimiento.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GerardoJardinezAlvarez/analisis-sentimiento-es-huggingface/blob/main/notebooks/analisis_comparativo_sentimiento.ipynb)
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -69,7 +69,7 @@ analisis-sentimiento-es-huggingface/
 ### Opción B — Local (con GPU recomendado)
 
 ```bash
-git clone https://github.com/TU_USUARIO/analisis-sentimiento-es-huggingface.git
+git clone https://github.com/GerardoJardinezAlvarez/analisis-sentimiento-es-huggingface.git
 cd analisis-sentimiento-es-huggingface
 pip install -r requirements.txt
 
